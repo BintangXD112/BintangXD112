@@ -6,7 +6,7 @@
 🔭 I’m currently exploring the latest in **Cloud Native** technologies  
 🌱 I’m continuously learning about **DevOps, Infrastructure as Code, and Scalable Systems**  
 🌍 I love building **resilient and distributed systems** in the cloud  
-📫 Reach me at: **bintangcaesar.dev@gmail.com**  
+📫 Reach me at: **nexus.node@bintangxd.my.id**  
 💡 Always ready to collaborate on cloud-driven innovations and modern architectures
 
 ---
@@ -14,7 +14,7 @@
 ## 🧰 Languages & Cloud Tools I Use
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" alt="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="GCP"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="30" alt="Terraform"/>
@@ -33,6 +33,26 @@
   <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" height="30" alt="Helm"/>
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="30" alt="Cloudflare"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" height="30" alt="OpenStack"/>
+<img src="https://www.vectorlogo.zone/logos/pulumi/pulumi-icon.svg" height="30" alt="Pulumi"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="30" alt="CircleCI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" height="30" alt="TravisCI"/>
+<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" height="30" alt="Vagrant"/>
+<img src="https://www.vectorlogo.zone/logos/getchef/getchef-icon.svg" height="30" alt="Chef"/>
+<img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" height="30" alt="Puppet"/>
+<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="30" alt="Zabbix"/>
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="30" alt="ELK Stack"/>
+<img src="https://www.vectorlogo.zone/logos/fluentd/fluentd-icon.svg" height="30" alt="Fluentd"/>
+<img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" height="30" alt="Istio"/>
+<img src="https://www.vectorlogo.zone/logos/linkerdio/linkerdio-icon.svg" height="30" alt="Linkerd"/>
+<img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" height="30" alt="Consul"/>
+<img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" height="30" alt="Vault"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="30" alt="MongoDB Atlas"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" alt="Firebase"/>
+<img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" height="30" alt="DigitalOcean"/>
+<img src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg" height="30" alt="Linode"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="30" alt="Heroku"/>
 </p>
 
 ---
@@ -41,7 +61,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/BintangXD112)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge)](https://github.com/BintangXD112)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:bintangcaesar.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:nexus.node@bintangxd.my.id)
 
 ---
 

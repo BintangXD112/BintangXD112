@@ -39,7 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="30" alt="CircleCI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" height="30" alt="TravisCI"/>
   <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" height="30" alt="Vagrant"/>
-  <img src="https://www.vectorlogo.zone/logos/getchef/getchef-icon.svg" height="30" alt="Chef"/>
   <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" height="30" alt="Puppet"/>
   <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="30" alt="Zabbix"/>
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="30" alt="ELK Stack"/>

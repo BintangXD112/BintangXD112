@@ -6,6 +6,7 @@
 🔭 I’m currently exploring the latest in **Cloud Native** technologies  
 🌱 I’m continuously learning about **DevOps, Infrastructure as Code, and Scalable Systems**  
 🌍 I love building **resilient and distributed systems** in the cloud  
+🏢 Founder of **NexusNode** — a modern Cloud Service company  
 📫 Reach me at: **nexus.node@bintangxd.my.id**  
 💡 Always ready to collaborate on cloud-driven innovations and modern architectures
 
@@ -34,25 +35,25 @@
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="30" alt="Cloudflare"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
   <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" height="30" alt="OpenStack"/>
-<img src="https://www.vectorlogo.zone/logos/pulumi/pulumi-icon.svg" height="30" alt="Pulumi"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="30" alt="CircleCI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" height="30" alt="TravisCI"/>
-<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" height="30" alt="Vagrant"/>
-<img src="https://www.vectorlogo.zone/logos/getchef/getchef-icon.svg" height="30" alt="Chef"/>
-<img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" height="30" alt="Puppet"/>
-<img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="30" alt="Zabbix"/>
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="30" alt="ELK Stack"/>
-<img src="https://www.vectorlogo.zone/logos/fluentd/fluentd-icon.svg" height="30" alt="Fluentd"/>
-<img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" height="30" alt="Istio"/>
-<img src="https://www.vectorlogo.zone/logos/linkerdio/linkerdio-icon.svg" height="30" alt="Linkerd"/>
-<img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" height="30" alt="Consul"/>
-<img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" height="30" alt="Vault"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="30" alt="MongoDB Atlas"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" alt="Firebase"/>
-<img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" height="30" alt="DigitalOcean"/>
-<img src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg" height="30" alt="Linode"/>
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="30" alt="Heroku"/>
+  <img src="https://www.vectorlogo.zone/logos/pulumi/pulumi-icon.svg" height="30" alt="Pulumi"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="30" alt="CircleCI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" height="30" alt="TravisCI"/>
+  <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" height="30" alt="Vagrant"/>
+  <img src="https://www.vectorlogo.zone/logos/getchef/getchef-icon.svg" height="30" alt="Chef"/>
+  <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" height="30" alt="Puppet"/>
+  <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" height="30" alt="Zabbix"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="30" alt="ELK Stack"/>
+  <img src="https://www.vectorlogo.zone/logos/fluentd/fluentd-icon.svg" height="30" alt="Fluentd"/>
+  <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" height="30" alt="Istio"/>
+  <img src="https://www.vectorlogo.zone/logos/linkerdio/linkerdio-icon.svg" height="30" alt="Linkerd"/>
+  <img src="https://www.vectorlogo.zone/logos/consulio/consulio-icon.svg" height="30" alt="Consul"/>
+  <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" height="30" alt="Vault"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="30" alt="MongoDB Atlas"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" alt="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-icon.svg" height="30" alt="DigitalOcean"/>
+  <img src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg" height="30" alt="Linode"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="30" alt="Heroku"/>
 </p>
 
 ---

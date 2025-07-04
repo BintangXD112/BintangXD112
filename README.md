@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Bintang Caesar</h1>
-<h3 align="center">A Passionate Cloud Developer ☁️ from Indonesia</h3>
+<h1 align="center">Hey there 👋, I'm Bintang Caesar</h1>
+<h3 align="center">Cloud Systems Architect & Developer from Indonesia ☁️</h3>
 
 ---
 
-🔭 I’m currently exploring the latest in **Cloud Native** technologies  
-🌱 I’m continuously learning about **DevOps, Infrastructure as Code, and Scalable Systems**  
-🌍 I love building **resilient and distributed systems** in the cloud  
-🏢 Founder of **NexusNode** — a modern Cloud Service company  
-📫 Reach me at: **nexus.node@bintangxd.my.id**  
-💡 Always ready to collaborate on cloud-driven innovations and modern architectures
+🚀 Passionate about designing and deploying **cloud-native systems** that are fast, flexible, and fault-tolerant  
+🔧 Always building, breaking, and improving — especially in areas like **infrastructure automation** and **distributed computing**  
+🏢 I’m also the founder of **NexusNode**, a cloud service brand focused on scalable, secure, and open infrastructure  
+✍️ On my free time, I like to tinker with APIs, observability stacks, and write automation scripts  
+📬 You can reach me at: **nexus.node@bintangxd.my.id**
 
 ---
 
-## 🧰 Languages & Cloud Tools I Use
+## 🔧 Technologies & Cloud Tools I Work With
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS"/>
@@ -56,7 +55,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/BintangXD112)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&style=for-the-badge)](https://github.com/BintangXD112)
@@ -64,4 +63,4 @@
 
 ---
 
-_“Build systems that scale, automate what you can, and always keep learning.”_
+_“I believe in building cloud infrastructure that's not just functional — but future-proof. Let the code speak for itself.”_

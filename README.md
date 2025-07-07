@@ -14,7 +14,7 @@
 ## 🔧 Technologies & Cloud Tools I Work With
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original-wordmark.png" height="40" alt="Railway PNG"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/railway/railway-original-wordmark.png?raw=true" height="40" alt="Railway"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="40" alt="Ansible"/>
   <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" height="40" alt="Helm"/>
   <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="40" alt="Cloudflare"/>
